@@ -6,35 +6,9 @@ StrayBirds
 ## 示例
 
 可以通过访问 [StrayBirds](http://minixalpha.github.io/StrayBirds/) 看到最终
-的效果，下面是截图:
-
-![ui-demo](/images/ui_demo.png)
-
-## 教程
-
-### 使用方法
-
-1. 注册 GitHub，得到用户名，例如 minixbeta
-2. 到 [StrayBirds](https://github.com/minixalpha/StrayBirds) 页面，单击右上
-角的 Fork
-3. 到你 Fork 后的项目中，将 `_config.yml` 中的 username 修改为你的用户名 minixbeta
-4. 访问你的博客 http://minixbeta.github.io/StrayBirds/
-
-![create_project](/images/create_project.gif)
-
-**注意如果你是第一次使用 GitHub Pages，可能不会马上生效，等一段时间即可**
-
-**按照配置中说的方法修改项目名称可能会加快这一进程**
+的效果
 
 ### 配置
-
-* 修改主题
-
-在 `_confg.yml` 下修改 theme 的值。
-
-**注意修改主题后，并不会马上生效，GitHub 还要反应一段时间，所以请耐心等待**
-
-**修改主题后, 按照配置中说的方法修改项目名称可能会加快这一进程**
 
 可选主题包括：
 
@@ -56,17 +30,6 @@ StrayBirds
 	![time-machine-demo](/images/time-machine-demo.png) 
 - kunka
 	![kunka-demo](/images/kunka-demo.png)
-
-* 修改项目名
-
-例如将 StrayBirds 修改为 blog，那么你需要做的是
-
-1. 在项目的 Setting 中将 Repository name 从 StrayBirds 修改为 blog
-2. 将 `_config.yml` 中的 baseurl 修改为 /blog
-3. 通过 http://minixbeta.github.io/blog/ 来访问你的新博客
-
-![create_post](/images/change_project_name.gif)
-
 
 * 修改评论系统用户名
 
