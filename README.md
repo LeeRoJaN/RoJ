@@ -1,11 +1,11 @@
-StrayBirds
+RoJ
 ==========
 
 基于 GitHub Pages 搭建的极简博客，所有操作都可以直接通过浏览器完成。
 
 ## 示例
 
-可以通过访问 [StrayBirds](http://minixalpha.github.io/StrayBirds/) 看到最终
+可以通过访问 [RoJ](http://leerojan.github.io/RoJ/) 看到最终
 的效果
 
 ### 配置
@@ -33,7 +33,7 @@ StrayBirds
 
 * 修改评论系统用户名
 
-我们的评论系统使用的是 [Disqus](https://disqus.com/)，如果你想在这份博客模板中使用，需要先去注册一下，然后得到一个用户名，例如 minixalpha。然后在 `_config.yml` 中将 disqusname 修改为 minixalpha。
+我们的评论系统使用的是 [Disqus](https://disqus.com/)，如果你想在这份博客模板中使用，需要先去注册一下，然后得到一个用户名，例如 minixalpha。然后在 `_config.yml` 中将 disqusname 修改为刚刚注册的用户名。
 
 **千万注意: 如果你开启评论系统一定要修改这个值，不然就评论到我的评论系统中去了**
 
