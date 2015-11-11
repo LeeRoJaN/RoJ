@@ -64,6 +64,10 @@ comments: true
 		}
 	}
 ```
+```javascript
+	var ma = ll;
+	conosle.log(ma);
+```
 
 ## 结束线程
 
